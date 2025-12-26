@@ -5,8 +5,8 @@ Custom ESP32 Marauder-style project developed using ESP-IDF.
   - ILI9341 LCD driver integrated
   - BME280 sensor driver integrated
   - GUI handling module
-  - Menu system implementation
-  - Wi-Fi driver and scanning functionality
+  - Menu system implementation in progress
+  - Wi-Fi driver and scanning functionality in progress
 - PCB design: Planned
 - Enclosure design: Planned (3D printed)
 
