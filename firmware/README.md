@@ -1,11 +1,12 @@
-ESP-IDF template app
-====================
+# ESP32 Marauder Firmware
+Firmware for the ESP32 Marauder board, enabling advanced Wi‑Fi, BLE, and networking tools for security research and testing.
 
-This is a template application to be used with [Espressif IoT Development Framework](https://github.com/espressif/esp-idf).
+## Features
+- Wi‑Fi scanning and monitoring
+- Beacon and probe packet analysis
+- Rogue access point capabilities
+- Bluetooth device scanning
+- OTA firmware update support
 
-Please check [ESP-IDF docs](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) for getting started instructions.
-
-*Code in this repository is in the Public Domain (or CC0 licensed, at your option.)
-Unless required by applicable law or agreed to in writing, this
-software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
-CONDITIONS OF ANY KIND, either express or implied.*
+## Project Status
+This project is under active development. Features may be incomplete, experimental, or subject to change.
